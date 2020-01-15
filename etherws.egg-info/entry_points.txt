@@ -1,3 +1,0 @@
-[console_scripts]
-etherws = etherws:_main
-
