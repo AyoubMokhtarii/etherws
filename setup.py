@@ -49,7 +49,7 @@ setup(
     install_requires=[
         'python-pytun>=2.1',
         'websocket-client>=0.14.0',
-        'tornado>=2.4',
+        'tornado==6.2b1',
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',
